@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=imddc&theme=buefy&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=imddc&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
 ![Lhlyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=imddc&show_icons=true&theme=buefy)
   
