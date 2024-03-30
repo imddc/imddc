@@ -1,23 +1,26 @@
-### Hi there 👋
+<h1 align="center"> <a href="https://www.hejian.club/"> <img src="https://readme-typing-svg.herokuapp.com?color=244DF7A9&lines=welcome+to+my+GitHub"> </a> </h1>
 
-<!--
-**imddc/imddc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😄 Worked skills
 
-Here are some ideas to get you started:
+- ✅ JavaScript / TypeScript / TSX ...
+- ✅ Vue.js / React.js / ...
+- ✅ webpack / vite / ...
+- ✅ Node.js / Nuxt.js / Nest.js ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=imddc&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+- <p align="left">
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25"/></code>
+    <code><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25"/></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25"/></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25"/></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="25"/></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="25"/></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="25"/></code>
+  </p>
 
-![Lhlyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=imddc&show_icons=true&theme=buefy)
-  
-[![Lhlyu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imddc&bg_color=ffffff&color=000000&line=7957d5&point=ff3961&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+
+<div>
+    <img height="184" src="https://github-readme-streak-stats.herokuapp.com/?user=imddc" />
+    <img height="184" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imddc&layout=compact&theme=" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=imddc&bg_color=ffffff&color=000000&line=7957d5&point=ff3961&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
 </div>
