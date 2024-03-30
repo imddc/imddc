@@ -23,10 +23,11 @@
 
 ---
 
-<div>
-    <div style="display: flex; justify-content: space-between;">
-        <img height="184" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imddc&layout=compact&theme=" />
-        <img height="184" src="https://github-readme-streak-stats.herokuapp.com/?user=imddc" />
-    </div>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=imddc&bg_color=ffffff&color=000000&line=7957d5&point=ff3961&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
+<div style="display: flex; justify-content: space-between;">
+    <img height="184" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imddc&layout=compact&theme=" />
+    <img height="184" src="https://github-readme-streak-stats.herokuapp.com/?user=imddc" />
 </div>
+
+---
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imddc&bg_color=ffffff&color=000000&line=7957d5&point=ff3961&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
