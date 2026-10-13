@@ -1,0 +1,28 @@
+{
+  "updated": "2026-10-13",
+  "since": "2026-07-15",
+  "publicAuthoredCommits": 7,
+  "method": "Authored commits multiplied by repository language-byte proportions. Public non-fork personal repositories only; not coding time or changed-line language.",
+  "languages": [
+    {
+      "name": "TypeScript",
+      "percent": 52.6
+    },
+    {
+      "name": "Rust",
+      "percent": 33.8
+    },
+    {
+      "name": "CSS",
+      "percent": 8.8
+    },
+    {
+      "name": "Shell",
+      "percent": 4.6
+    },
+    {
+      "name": "HTML",
+      "percent": 0.1
+    }
+  ]
+}
