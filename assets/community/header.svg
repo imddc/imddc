@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="180" viewBox="0 0 854 180" role="img" aria-labelledby="title desc">
+  <title id="title">imddc</title>
+  <desc id="desc">A mint wordmark with slowly moving ocean curves.</desc>
+  <!-- Waving paths and morph animation adapted from kyechan99/capsule-render (MIT). -->
+  <defs>
+    <linearGradient id="tide" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a4ebc7"/>
+      <stop offset="100%" stop-color="#31a795"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="854" height="180" rx="8"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="854" height="180" fill="#102326"/>
+    <path d="M26 25H48M26 25V47M828 155H806M828 155V133" fill="none" stroke="#8aa5a0" stroke-width="1"/>
+    <g transform="translate(854 0) rotate(90) scale(0.210773 1.65)">
+      <path d="M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z" fill="url(#tide)" opacity="0.38">
+            <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1"
+                calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s"
+                values="M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z;M0 0L 0 145Q 213.5 160 427 140T 854 130L 854 0 Z;M0 0L 0 165Q 213.5 135 427 165T 854 130L 854 0 Z;M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z">
+            </animate>
+        </path><path d="M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z" fill="url(#tide)" opacity="0.78">
+            <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1"
+                calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s"
+                values="M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z;M0 0L 0 150Q 213.5 120 427 120T 854 140L 854 0 Z;M0 0L 0 145Q 213.5 125 427 150T 854 165L 854 0 Z;M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z">
+            </animate>
+        </path>
+    </g>
+    <text x="36" y="128" fill="#e5f4ed" font-family="Arial, Helvetica, sans-serif" font-size="116" font-weight="700" letter-spacing="-8">imddc</text>
+    <rect x="378" y="118" width="32" height="10" fill="#a4ebc7"/>
+    <path d="M36 148H410" fill="none" stroke="#294347"/>
+  </g>
+</svg>

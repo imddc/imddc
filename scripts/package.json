@@ -1,0 +1,15 @@
+{
+  "name": "imddc-profile-assets",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24 <25"
+  },
+  "scripts": {
+    "refresh": "node refresh-languages.mjs",
+    "test": "node --test profile-layout.test.mjs"
+  },
+  "dependencies": {
+    "@stats-organization/github-readme-stats-core": "2.2.1"
+  }
+}
