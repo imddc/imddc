@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="280" viewBox="0 0 800 280" role="img" aria-labelledby="title desc">
+<title id="title">imddc · Build beyond the browser</title><desc id="desc">Web, services, desktop tools and AI agents.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101e34"/><stop offset="1" stop-color="#07111f"/></linearGradient><linearGradient id="line"><stop stop-color="#9ed1ff"/><stop offset="1" stop-color="#bca9ed"/></linearGradient></defs>
+<rect width="800" height="280" rx="18" fill="url(#bg)"/>
+<g fill="none" stroke="url(#line)" opacity=".5"><ellipse cx="684" cy="138" rx="112" ry="58" transform="rotate(-38 684 138)"/><ellipse cx="684" cy="138" rx="112" ry="58" transform="rotate(38 684 138)"/><circle cx="684" cy="138" r="76"/></g><circle cx="684" cy="138" r="6" fill="#a9d6ff"/>
+<g font-family="Arial, sans-serif"><text x="36" y="43" fill="#9ed1ff" font-size="11" letter-spacing="4">IMDDC / DEVELOPER &amp; EXPLORER</text><text x="36" y="111" fill="#f1f6ff" font-size="49" font-weight="700" letter-spacing="-2">Build beyond</text><text x="36" y="165" fill="#a9d6ff" font-size="49" font-weight="700" letter-spacing="-2">the browser.</text><text x="36" y="219" fill="#a6b8d0" font-size="13">WEB ↗ SERVICES ↗ DESKTOP ↗ AI / AGENT</text><text x="36" y="251" fill="#7189a6" font-size="10" letter-spacing="2">QUESTION. BUILD. REFINE.</text></g>
+</svg>
